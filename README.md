@@ -1,58 +1,33 @@
-# Perkalian Matriks
+# Python Learning
 
-Program sederhana untuk melakukan perkalian dua buah matriks menggunakan Python.
+Repository ini berisi kumpulan latihan dan tugas yang saya kerjakan selama belajar Python.
 
-Program ini merupakan latihan untuk memahami penggunaan **array/list 2 dimensi**, perulangan `for`, input pengguna, dan proses perkalian matriks.
+Di sini saya menyimpan berbagai program sederhana untuk memahami dasar-dasar Python dan cara menyelesaikan masalah menggunakan kode.
 
-## Cara Kerja
+## Isi Repository
 
-Program akan meminta pengguna memasukkan:
+Beberapa latihan yang ada di repository ini antara lain:
 
-* Jumlah baris matriks pertama
-* Jumlah kolom matriks pertama
-* Jumlah baris matriks kedua
-* Jumlah kolom matriks kedua
-* Nilai setiap elemen dari kedua matriks
+- Array dan pengolahan data
+- Perkalian matriks
+- Perulangan dan percabangan
+- Input dan output
+- Operasi dasar menggunakan Python
 
-Sebelum melakukan perkalian, program akan mengecek apakah jumlah kolom matriks pertama sama dengan jumlah baris matriks kedua.
+Repository ini akan terus diperbarui seiring saya mempelajari materi dan membuat latihan baru.
 
-Jika tidak sama, perkalian matriks tidak dapat dilakukan.
+## Tujuan
 
-## Contoh
+Repository ini dibuat sebagai tempat untuk menyimpan dan melihat perkembangan saya dalam belajar Python.
 
-Matriks pertama:
+Mulai dari program-program sederhana, kemudian secara bertahap mencoba membuat program yang lebih kompleks.
 
-```text
-1  2
-3  4
-```
+## Bahasa yang Digunakan
 
-Matriks kedua:
+- Python
 
-```text
-5  6
-7  8
-```
+## Catatan
 
-Hasil perkalian:
+Sebagian besar program di repository ini merupakan latihan dan tugas selama proses belajar, jadi mungkin masih terdapat kode yang sederhana atau belum optimal.
 
-```text
-19  22
-43  50
-```
-
-## Menjalankan Program
-
-Pastikan Python sudah terinstall, kemudian jalankan:
-
-```bash
-python perkalian_matriks.py
-```
-
-## Yang Dipelajari
-
-* Membuat dan menggunakan list 2 dimensi
-* Menggunakan nested `for`
-* Mengambil input dari pengguna
-* Melakukan operasi perkalian matriks
-* Mengecek kondisi sebelum melakukan proses
+Saya akan terus memperbaikinya dan menambahkan program baru seiring proses belajar.
