@@ -1,14 +1,10 @@
 # Perulangan dan Percabangan
 
-[svg](https://github.com/Mystic-972/python-learning/tree/main/Perulangan#perulangan-dan-percabangan)
-
 Program sederhana untuk mengolah data siswa menggunakan perulangan dan percabangan di Python.
 
 Program ini dibuat sebagai latihan untuk memahami penggunaan `for`, `if`, `elif`, dan `else`.
 
 ## Fitur
-
-[svg](https://github.com/Mystic-972/python-learning/tree/main/Perulangan#fitur)
 
 Program akan:
 
@@ -19,8 +15,6 @@ Program akan:
 - Menentukan status lulus atau tidak lulus
 
 ## Ketentuan Grade
-
-[svg](https://github.com/Mystic-972/python-learning/tree/main/Perulangan#ketentuan-grade)
 
 | **NilaiGrade** |   |
 | -------------- | - |
@@ -33,8 +27,6 @@ Program akan:
 Siswa dinyatakan **Lulus** jika mendapatkan nilai minimal 70.
 
 ## Contoh
-
-[svg](https://github.com/Mystic-972/python-learning/tree/main/Perulangan#contoh)
 
 Input:
 
